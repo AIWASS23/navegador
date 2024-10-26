@@ -19,8 +19,8 @@ jobs:
       
     - name: Build
       run: swift build -v
-      working-directory: ${{ env.PACKAGE_DIR }}
+      working-directory: ./navegador/core-web
       
     - name: Run tests
       run: swift test -v
-      working-directory: ${{ env.PACKAGE_DIR }}
+      working-directory: ./navegador/core-web
