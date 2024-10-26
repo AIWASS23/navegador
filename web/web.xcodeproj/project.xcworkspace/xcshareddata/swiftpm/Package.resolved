@@ -1,0 +1,15 @@
+{
+  "originHash" : "f4268ff591dd18669ba18ee166acb2171007dee4222b45015ff1a7bcdf2de962",
+  "pins" : [
+    {
+      "identity" : "core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AIWASS23/core.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "6c4847fdac10e70c53eee0b0c8b69c02ac68f33c"
+      }
+    }
+  ],
+  "version" : 3
+}
